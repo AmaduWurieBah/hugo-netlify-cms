@@ -1,7 +1,6 @@
 ---
 title: "Module 1: Learn Git"
 description: "Welcome to the first module of the Makeni Hub Project. In this module we think about our input and our expectations for the Makeni Hub Project. While doing this we will also learn to work with Git and Github.
-
 Git is an open source version control system (vcs). These day's it is the most popular vcs around, and for good reasons. It's completely free, and it is easy to use."
 date: 2020-06-17T20:29:02Z
 draft: false
